@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Đây là trang dashboard</h1>
 </body>
 </html>
